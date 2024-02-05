@@ -1,2 +1,4 @@
 # Diabetes-prediction-model-for-API
-This API only can run local machine
+This API can run only in local machine
+
+note: you should download the pimma indian diabetes dataset from kaggle
